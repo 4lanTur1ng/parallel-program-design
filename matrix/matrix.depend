@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678611083 source:c:\users\app\onedrive - 22j2nd\并行程序设计\round1000common1000\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+
